@@ -1,0 +1,39 @@
+# Directorios de Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/mvn/wrapper/maven-wrapper.jar
+
+# Archivos de configuración de Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Archivos de configuración de IntelliJ IDEA
+/.idea/
+/*.iml
+/*.ipr
+/*.iws
+
+# Archivos de configuración de Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Archivos de configuración de VS Code
+/.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+*.class
+
+# Archivos generados por el sistema operativo
+*.swp
+*~
